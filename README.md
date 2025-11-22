@@ -1,4 +1,5 @@
-About Daily C programming practice from my Udemy course
+About Daily C programming practice from Udemy and other learning resources.
+
 
 ## 🎯 My goals are:
 - To take the C language to the basic → intermediate → advanced level. 
