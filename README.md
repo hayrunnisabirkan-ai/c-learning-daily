@@ -30,4 +30,4 @@ The main purpose of this repo is to track my learning progress and build strong 
 - This repository is continuously updated as I learn new topics
 
 ## 👩‍💻 Author
-Nisa Birkan
+Hayrun Nisa Birkan
